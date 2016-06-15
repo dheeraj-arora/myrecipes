@@ -1,0 +1,45 @@
+[{
+        "name": "Sarso Saag",
+        "ingredients": [
+                "Mustered leaves",
+                "Spinach",
+                "Tomato",
+                "Green Chilly"
+        ],
+        "type": "Main Course",
+        "imageURL": "http://i.dawn.com/large/2014/02/5304702d1266b.jpg"
+
+}, {
+        "name": "Paneer Tikka",
+        "ingredients": [
+                "paneer",
+                "onion",
+                "Tomato",
+                "Red Chilly"
+        ],
+        "type": "Starter",
+        "imageURL": "http://dassana.cdnrecipes.netdna-cdn.com/wp-content/uploads/2011/10/tandoori-paneer-tikka.jpg"
+}, {
+        "name": "Tandoori Chicken",
+        "ingredients": [
+                "chicken",
+                "onion",
+                "Tomato",
+                "Red Chilly"
+        ],
+        "type": "Starter",
+        "imageURL": "http://i.dawn.com/large/2015/08/55cb2e197291b.jpg"
+}, {
+        "name": "Cholle Bhatture",
+        "ingredients": [
+                "Chick Peas",
+                "onion",
+                "Tomato",
+                "Red Chilly",
+                "Lemon"
+        ],
+        "type": "Breakfast",
+        "imageURL": "http://www.foodpost.ca/wp-content/uploads/2015/01/chole-bhature-viral-chronics.jpg"
+
+
+}]

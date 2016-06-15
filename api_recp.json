@@ -1,0 +1,122 @@
+[{
+	"name": "Payasam",
+	"ingredients": [
+		"rice",
+		"sugar",
+		"milk",
+		"dry nuts"
+	],
+	"type": "Dessert",
+	"imageURL": "https://www.milkmaid.in/Images/Recipe/77-Rice%20Kheer.jpg"
+}, {
+	"name": "Chicken Curry",
+	"ingredients": [
+		"Chicken",
+		"salt",
+		"onion",
+		"Tomato",
+		"Ginger",
+		"water",
+		"Masala"
+	],
+	"type": "Main Course",
+	"imageURL": "http://www.telegraph.co.uk/content/dam/food-and-drink/2016/02/17/butter-chicken-large_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg"
+}, {
+	"name": "Matar Paneer",
+	"ingredients": [
+		"paneer",
+		"peas",
+		"water",
+		"salt",
+		"onion",
+		"tomatoes"
+	],
+	"type": "Main Course",
+	"imageURL": "http://ksmartstatic.sify.com/cmf-1.0.0/appflow/bawarchi.com/Image/oets9pcjdjhcd_bigger.jpg"
+}, {
+	"name": "Dal Tadka",
+	"ingredients": [
+		"Moong dal",
+		"water",
+		"ghee",
+		"dry chilly",
+		"salt"
+	],
+	"type": "Main Course",
+	"imageURL": "http://www.tasty-indian-recipes.com/wp-content/uploads/2013/10/Dal-Tadka.jpg"
+}, {
+        "name": "Sarso Saag",
+        "ingredients": [
+                "Mustered leaves",
+                "Spinach",
+                "Tomato",
+                "Green Chilly"
+        ],
+        "type": "Main Course",
+        "imageURL": "http://i.dawn.com/large/2014/02/5304702d1266b.jpg"
+
+}, {
+        "name": "Tandoori Chicken",
+        "ingredients": [
+                "chicken",
+                "onion",
+                "Tomato",
+                "Red Chilly"
+        ],
+        "type": "Starter",
+        "imageURL": "http://i.dawn.com/large/2015/08/55cb2e197291b.jpg"
+}, {                 
+        "name": "Paneer Tikka",
+        "ingredients": [
+                "paneer",
+                "onion",
+                "Tomato",
+                "Red Chilly"
+        ],
+        "type": "Starter",
+        "imageURL": "http://dassana.cdnrecipes.netdna-cdn.com/wp-content/uploads/2011/10/tandoori-paneer-tikka.jpg"
+}, {
+        "name": "Vegetable Pulao",
+        "ingredients": [
+                "rice",
+                "onion",
+                "peas",
+                "carrot",
+		"salt"
+        ],
+        "type": "Main Course",
+        "imageURL": "http://i2.wp.com/www.siasat.com/wp-content/uploads/2015/10/veg-pulao.jpg"
+}, {
+        "name": "Chicken Biryani",
+        "ingredients": [
+                "chicken",
+                "onion",
+                "Tomato",
+                "rice",
+		"Red Chilly"
+        ],
+        "type": "Main Source",
+        "imageURL": "https://i.ytimg.com/vi/PHoFQKcUK78/hqdefault.jpg"
+}, {
+        "name": "Cholle Bhatture",
+        "ingredients": [
+                "Chick Peas",
+                "onion",
+                "Tomato",
+                "Red Chilly",
+		"Lemon"
+        ],
+        "type": "Breakfast",
+        "imageURL": "http://www.foodpost.ca/wp-content/uploads/2015/01/chole-bhature-viral-chronics.jpg"
+
+}, {
+	"name": "Masala Papad",
+	"ingredients": [
+		"Papad",
+		"onion",
+		"Tomato",
+		"Green Chilly"
+	],
+	"type": "Starter",
+	"imageURL": "http://2.bp.blogspot.com/-3g62JjRehHs/UG3HauBJh5I/AAAAAAAAD1E/NTtINC45I4w/s1600/MP2.JPG"
+}]

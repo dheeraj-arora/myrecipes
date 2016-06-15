@@ -1,0 +1,115 @@
+
+/*  Grid */
+
+* {
+    box-sizing: border-box;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+[class*="col-"] {
+    float: left;
+    padding: 10px;
+}
+.col-3 {width: 25%;}
+.col-4 {width: 31.33%;}
+
+/*  End Grid */
+
+
+
+
+body {
+    font-family: arial, verdana, sans-serif, FreeSans;
+    font-size: 12px;
+    padding: 20px;
+}
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+section {
+    clear: both;
+    padding-top: 30px;
+}
+section ul li {
+    float: left;
+    padding: 5px;
+    width: 300px;
+    list-style: none;
+}
+.thumb {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    max-height: 39vh;
+    max-width: 19vw;
+}
+.recpdetails {
+    background-color: #fff;
+    clear: both;
+    display: block;
+    padding: 5px 12px;
+    text-align: center;
+}
+.recpdetails  h3{
+    padding-bottom: 5px;
+    font-weight:bold;
+}
+.thumbwrapper {
+    text-align: center;
+}
+#ingrwrapper {
+    background: #f6f6f6 none repeat scroll 0 0;
+    cursor: pointer;
+    padding: 20px;
+}
+#ingredients {
+    background: #f6f6f6 none repeat scroll 0 0;
+    display: none;
+    padding: 0px 25px 10px;
+}
+header {
+    background-color: #f6f6f6;
+    border-radius: 10px;
+    border-bottom: 1px solid #eee;
+    font-size: 20px;
+    padding: 20px 0;
+    position: relative;
+}
+header div {
+    text-align: center;
+}
+section h2, h2 {
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.trwrapper {
+    clear: both;
+    min-height: 900px;
+    padding: 1em;
+    margin-top: 10px;
+    background: #f6f6f6 none repeat scroll 0 0;
+}
+ul .inglist {
+    padding: 0 20px;
+}
+.recipelist li {
+    background-color: #fff;
+    margin: 5px;
+    border-radius: 6px;
+    position: relative;
+    min-height: 15vw;
+}
+#ingredients .chkbox {
+    margin-right: 10px;
+}
+.clearall {
+    clear: both;
+    padding-top: 20px;
+}
+
+
+
